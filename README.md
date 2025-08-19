@@ -18,19 +18,20 @@ I developed this Book Recommender System to showcase my skills in:
 
 ##  Repository Structure
 
+```
 book-recommender/
 ├── data/
-│ ├── books_cleaned.csv
-│ ├── books_with_categories.csv
-│ └── books_with_emotions.csv
+│   ├── books_cleaned.csv
+│   ├── books_with_categories.csv
+│   └── books_with_emotions.csv
 ├── notebooks/
-│ ├── data-exploration.ipynb
-│ ├── sentiment-analysis.ipynb
-│ ├── text_classification.ipynb
-│ └── vector_search.ipynb
+│   ├── data-exploration.ipynb
+│   ├── sentiment-analysis.ipynb
+│   └── vector_search.ipynb
 ├── gradio_dashboard.py
 ├── tagged_description.txt
 └── README.md
+```
 
 
 - **`data/`**: Cleaned datasets with additional metadata (categories, sentiment scores, etc.)
