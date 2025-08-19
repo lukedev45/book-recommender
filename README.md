@@ -65,10 +65,13 @@ book-recommender/
    cd book-recommender
 
 2. Install dependencies (create a virtual environment if desired):
-pip install pandas numpy scikit-learn gradio notebook
+   ```bash
+   pip install pandas numpy scikit-learn gradio notebook
 
-3. Run Jupyter Notebooks:
-jupyter notebook notebooks/
+4. Run Jupyter Notebooks:
+   ```bash
+   jupyter notebook notebooks/
 
-4. Launch the interactive recommendation demo:
-python gradio_dashboard.py
+5. Launch the interactive recommendation demo:
+   ```bash
+   python gradio_dashboard.py
