@@ -12,7 +12,7 @@ I developed this Book Recommender System to showcase my skills in:
 - **Text preprocessing & sentiment analysis**
 - **Machine learning for classification and similarity-based recommendation**
 - **Interactive UI development via Gradio**
-- **End-to-end project structure—from raw data to deployable demo**
+- **End-to-end project structure, from raw data to deployable demo**
 
 ---
 
